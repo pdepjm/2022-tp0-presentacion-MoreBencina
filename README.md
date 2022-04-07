@@ -3,6 +3,6 @@
 ## Estudiante: Morena Bencina
 
 
-![mi foto](Mi foto.jpeg)
+![mi foto](Mifoto.jpeg)
 
 Me apasiona bailar, soy fan de las películas de terror y amo cocinar 
